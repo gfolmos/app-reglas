@@ -129,7 +129,7 @@ with st.expander("Explicación del Programa"):
     with col2:
         st.write("**Datos Rechazados (output):** Muestra la información Rechazada, que no coincidio con las reglas del archivo de entrada.")
     with col3:
-        st.write("**Churn Ventas:** Muestra información Valida, que coincidio con las reglas del archivo de entrada.")
+        st.write("**Datos Validos (output):** Muestra información Valida, que coincidio con las reglas del archivo de entrada.")
 
 #df, df_reglas, archivo_seleccionado = seleccion_archivos()
 #selecciona archivos
