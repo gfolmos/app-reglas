@@ -1,6 +1,6 @@
 Autor: Gerardo Figueroa
 Fecha: 08/06/26
-⚡ Rule-Based Data Validator (Rule-Based Systems)
+# ⚡ Rule-Based Data Validator (Rule-Based Systems)
 
 > **Programa estrella para la toma de decisiones que optimiza y agiliza los flujos de trabajo operativos.**
 
